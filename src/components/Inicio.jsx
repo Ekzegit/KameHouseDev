@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import fondoInicio from "../assets/foto_inicio.png"; // ✅ Importar imagen
 
 function Inicio() {
     return (
@@ -6,7 +7,7 @@ function Inicio() {
             id="inicio"
             className="relative min-h-screen text-white bg-center bg-no-repeat 
              bg-cover md:bg-cover sm:bg-contain sm:bg-top"
-            style={{ backgroundImage: "url('/src/assets/foto_inicio.png')" }}
+            style={{ backgroundImage: `url(${fondoInicio})` }} // ✅ Usar imagen importada
             initial={{ opacity: 0, y: 40 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, ease: "easeOut" }}
@@ -38,13 +39,9 @@ function Inicio() {
                         Combinamos diseño funcional y tecnología moderna para ofrecer soluciones eficaces,
                         atractivas y alineadas con tus objetivos.
                     </motion.p>
-
-
                 </div>
             </div>
         </motion.section>
-
-
     );
 }
 

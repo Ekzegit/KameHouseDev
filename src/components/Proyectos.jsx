@@ -1,4 +1,7 @@
 import { motion } from "framer-motion";
+import imgGeodesik from "../assets/geodesik.jpg";
+import imgBigcleans from "../assets/bigcleans.jpg";
+import imgCompraventa from "../assets/compra-venta-inmobiliaria.jpg";
 
 function Proyectos() {
     return (
@@ -23,7 +26,7 @@ function Proyectos() {
                         viewport={{ once: true }}
                     >
                         <img
-                            src="/src/assets/geodesik.jpg"
+                            src={imgGeodesik}
                             alt="Proyecto Geodesik"
                             className="w-full h-40 object-cover rounded-md mb-4"
                         />
@@ -50,7 +53,7 @@ function Proyectos() {
                         viewport={{ once: true }}
                     >
                         <img
-                            src="/src/assets/bigcleans.jpg"
+                            src={imgBigcleans}
                             alt="Proyecto BigCleans"
                             className="w-full h-40 object-cover rounded-md mb-4"
                         />
@@ -77,7 +80,7 @@ function Proyectos() {
                         viewport={{ once: true }}
                     >
                         <img
-                            src="/src/assets/compra-venta-inmobiliaria.jpg"
+                            src={imgCompraventa}
                             alt="Proyecto Compraventa"
                             className="w-full h-40 object-cover rounded-md mb-4"
                         />

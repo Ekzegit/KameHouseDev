@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import fondoServicios from "../assets/kame_servicios.png";
 
 function Servicios() {
     return (
@@ -6,7 +7,7 @@ function Servicios() {
             id="servicios"
             className="relative min-h-[60vh] text-white py-28 px-6 bg-cover bg-center bg-no-repeat"
             style={{
-                backgroundImage: "url('/src/assets/kame_servicios.png')",
+                backgroundImage: `url(${fondoServicios})`,
             }}
             initial={{ opacity: 0, y: 50 }}
             whileInView={{ opacity: 1, y: 0 }}
