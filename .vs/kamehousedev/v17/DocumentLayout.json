@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Servicios.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Proyectos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Proyectos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Servicios.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Proyectos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Proyectos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Inicio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Valores.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -87,27 +87,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T16:26:13.452Z"
+              "WhenOpened": "2025-05-22T16:26:13.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js",
               "RelativeDocumentMoniker": "vite.config.js",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js",
               "RelativeToolTip": "vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-22T16:25:28.143Z"
+              "WhenOpened": "2025-05-22T16:25:28.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Contacto.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx",
               "RelativeDocumentMoniker": "src\\components\\Contacto.jsx",
@@ -147,19 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Servicios.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx",
               "RelativeDocumentMoniker": "src\\components\\Servicios.jsx",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx",
               "RelativeToolTip": "src\\components\\Servicios.jsx",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-22T01:53:23.733Z"
+              "WhenOpened": "2025-05-22T01:53:23.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Proyectos.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Proyectos.jsx",
               "RelativeDocumentMoniker": "src\\components\\Proyectos.jsx",
@@ -167,7 +170,8 @@
               "RelativeToolTip": "src\\components\\Proyectos.jsx",
               "ViewState": "AgIAAEQAAAAAAAAAAAAswGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-22T00:10:36.931Z"
+              "WhenOpened": "2025-05-22T00:10:36.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Inicio.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Inicio.jsx",
               "RelativeDocumentMoniker": "src\\components\\Inicio.jsx",
@@ -191,19 +195,21 @@
               "RelativeToolTip": "src\\components\\Inicio.jsx",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-22T00:00:12.133Z"
+              "WhenOpened": "2025-05-22T00:00:12.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Header.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Header.jsx",
               "RelativeDocumentMoniker": "src\\components\\Header.jsx",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Header.jsx",
               "RelativeToolTip": "src\\components\\Header.jsx",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-21T23:51:03.029Z"
+              "WhenOpened": "2025-05-21T23:51:03.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -219,13 +225,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-21T22:59:07.357Z",
               "EditorCaption": ""
