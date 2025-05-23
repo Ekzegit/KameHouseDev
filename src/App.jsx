@@ -6,12 +6,7 @@ import Servicios from "./components/Servicios";
 import Contacto from "./components/Contacto";
 import Footer from "./components/Footer";
 import Valores from "./components/Valores";
-
-
-
-
-
-
+import BotonWhatsApp from "./components/BotonWhatsApp"; // ✅ añadido
 
 function App() {
     return (
@@ -24,12 +19,9 @@ function App() {
             <Servicios />
             <Contacto />
             <Footer />
-
-            <BotonWhatsApp /> {/* 👈 Botón flotante */}
-
+            <BotonWhatsApp /> {/* ✅ corregido */}
         </div>
     );
 }
-
 
 export default App;
