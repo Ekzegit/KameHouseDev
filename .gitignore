@@ -24,3 +24,6 @@ Thumbs.db
 .env
 .env.*
 /.vs
+/.vs
+/.vs
+*.sqlite
