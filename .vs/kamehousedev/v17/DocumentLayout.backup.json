@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BotonWhatsApp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Servicios.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,79 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BotonWhatsApp.jsx",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx",
-              "RelativeDocumentMoniker": "src\\components\\BotonWhatsApp.jsx",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx",
-              "RelativeToolTip": "src\\components\\BotonWhatsApp.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-23T12:19:05.166Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-23T14:02:07.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js",
-              "RelativeDocumentMoniker": "vite.config.js",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\vite.config.js",
-              "RelativeToolTip": "vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T05:33:51.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Servicios.jsx",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx",
-              "RelativeDocumentMoniker": "src\\components\\Servicios.jsx",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Servicios.jsx",
-              "RelativeToolTip": "src\\components\\Servicios.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Contacto.jsx",
+              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Contacto.jsx",
+              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx",
+              "RelativeToolTip": "src\\components\\Contacto.jsx",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-23T05:04:56.529Z",
+              "WhenOpened": "2025-05-23T13:14:37.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\App.jsx",
-              "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\App.jsx",
-              "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Title": "BotonWhatsApp.jsx",
+              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx",
+              "RelativeDocumentMoniker": "src\\components\\BotonWhatsApp.jsx",
+              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx",
+              "RelativeToolTip": "src\\components\\BotonWhatsApp.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-23T04:57:25.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-23T04:52:53.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "deploy.yml",
-              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\.github\\workflows\\deploy.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
-              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\.github\\workflows\\deploy.yml",
-              "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-23T04:43:48.776Z",
+              "WhenOpened": "2025-05-23T12:26:59.422Z",
               "EditorCaption": ""
             }
           ]

@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import imgGeodesik from "../assets/geodesik.jpg";
 import imgBigcleans from "../assets/bigcleans.jpg";
 import imgCompraventa from "../assets/compra-venta-inmobiliaria.jpg";
+import imgJuegos from "../assets/juegosantiago.png";
 
 function Proyectos() {
     return (
@@ -63,6 +64,60 @@ function Proyectos() {
                         </p>
                         <a
                             href="https://www.bigcleans.cl"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-naranjaDB text-white px-4 py-2 rounded-full text-sm hover:bg-azulDB transition"
+                        >
+                            Ver sitio
+                        </a>
+                    </motion.div>
+
+                    {/* Proyecto juego Santiago */}
+                    <motion.div
+                        className="bg-white p-4 rounded-xl shadow hover:shadow-lg transition flex flex-col items-center"
+                        initial={{ opacity: 0, x: -200 }}
+                        whileInView={{ opacity: 1, x: 0 }}
+                        transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
+                        viewport={{ once: true }}
+                    >
+                        <img
+                            src={imgJuegos}
+                            alt="Proyecto Juegos Santiago"
+                            className="w-full h-40 object-cover rounded-md mb-4"
+                        />
+                        <h3 className="text-xl font-semibold mb-2">Juegos Santiago</h3>
+                        <p className="text-sm text-gray-700 text-center mb-4">
+                            Sitio para empresa de arriendo de Juegos Inflables. Optimizado para SEO, mobile y campañas online.
+                        </p>
+                        <a
+                            href="https://ekzegit.github.io/juegosantiago/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-naranjaDB text-white px-4 py-2 rounded-full text-sm hover:bg-azulDB transition"
+                        >
+                            Ver sitio
+                        </a>
+                    </motion.div>
+
+                    {/* Proyecto ExpertMaq */}
+                    <motion.div
+                        className="bg-white p-4 rounded-xl shadow hover:shadow-lg transition flex flex-col items-center"
+                        initial={{ opacity: 0, x: -200 }}
+                        whileInView={{ opacity: 1, x: 0 }}
+                        transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
+                        viewport={{ once: true }}
+                    >
+                        <img
+                            src={imgExpertMaq}
+                            alt="Proyecto ExpertMaq"
+                            className="w-full h-40 object-cover rounded-md mb-4"
+                        />
+                        <h3 className="text-xl font-semibold mb-2">Juegos ExpertMaq</h3>
+                        <p className="text-sm text-gray-700 text-center mb-4">
+                            Sitio para empresa de maquinaria minera. Optimizado para SEO, mobile y campañas online.
+                        </p>
+                        <a
+                            href="https://ekzegit.github.io/expertMaq/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-naranjaDB text-white px-4 py-2 rounded-full text-sm hover:bg-azulDB transition"

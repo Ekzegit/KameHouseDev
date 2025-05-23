@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T17:39:10.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-23T14:02:07.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Contacto.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\Contacto.jsx",
               "RelativeDocumentMoniker": "src\\components\\Contacto.jsx",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "src\\components\\Contacto.jsx",
               "ViewState": "AgIAAGoAAAAAAAAAAAAmwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-23T13:14:37.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:14:37.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BotonWhatsApp.jsx",
               "DocumentMoniker": "C:\\Users\\exeac\\source\\repos\\kamehousedev\\src\\components\\BotonWhatsApp.jsx",
               "RelativeDocumentMoniker": "src\\components\\BotonWhatsApp.jsx",
@@ -68,8 +84,7 @@
               "RelativeToolTip": "src\\components\\BotonWhatsApp.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-05-23T12:26:59.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T12:26:59.422Z"
             }
           ]
         }
