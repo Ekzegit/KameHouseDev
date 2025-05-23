@@ -3,6 +3,7 @@ import imgGeodesik from "../assets/geodesik.jpg";
 import imgBigcleans from "../assets/bigcleans.jpg";
 import imgCompraventa from "../assets/compra-venta-inmobiliaria.jpg";
 import imgJuegos from "../assets/juegosantiago.png";
+import imgExpertMaq from "../assets/expertmaq.png";
 
 function Proyectos() {
     return (
