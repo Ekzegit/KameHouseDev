@@ -10,31 +10,13 @@ function Footer() {
             {/* Redes sociales */}
             <div className="flex justify-center gap-8 mt-4 text-2xl">
                 <a
-                    href="https://wa.me/56995388656"
+                    href="https://wa.me/56948804689"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-amarilloDB"
                     title="WhatsApp"
                 >
                     <FaWhatsapp />
-                </a>
-                <a
-                    href="https://www.linkedin.com/in/exequielacevedo/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-amarilloDB"
-                    title="LinkedIn"
-                >
-                    <FaLinkedin />
-                </a>
-                <a
-                    href="https://github.com/Ekzegit"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-amarilloDB"
-                    title="GitHub"
-                >
-                    <FaGithub />
                 </a>
             </div>
 
