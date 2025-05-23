@@ -25,6 +25,8 @@ function App() {
             <Contacto />
             <Footer />
 
+            <BotonWhatsApp /> {/* 👈 Botón flotante */}
+
         </div>
     );
 }

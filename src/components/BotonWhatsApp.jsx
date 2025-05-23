@@ -4,7 +4,7 @@ import './BotonWhatsApp.css';
 const BotonWhatsApp = () => {
   return (
     <a
-      href="https://wa.me/569XXXXXXXX"
+      href="https://wa.me/56948804689"
       className="whatsapp-float"
       target="_blank"
       rel="noopener noreferrer"
