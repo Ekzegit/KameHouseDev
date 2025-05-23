@@ -11,6 +11,7 @@ function Contacto() {
     });
 
     const [errores, setErrores] = useState({});
+    const [enviando, setEnviando] = useState(false);
 
     const validar = () => {
         const erroresTemp = {};
@@ -46,10 +47,12 @@ function Contacto() {
             return;
         }
 
+        setEnviando(true);
         formRef.current.submit();
         alert("¡Gracias! Tu mensaje ha sido enviado.");
         setFormData({ nombre: "", correo: "", mensaje: "" });
         setErrores({});
+        setEnviando(false);
     };
 
     return (
@@ -119,9 +122,13 @@ function Contacto() {
                     </div>
                     <button
                         type="submit"
-                        className="bg-naranjaDB text-white px-6 py-2 rounded-full hover:bg-white hover:text-naranjaDB transition"
+                        disabled={enviando}
+                        className={`${enviando
+                                ? "bg-gray-400 cursor-not-allowed"
+                                : "bg-naranjaDB hover:bg-white hover:text-naranjaDB"
+                            } text-white px-6 py-2 rounded-full transition`}
                     >
-                        Enviar mensaje
+                        {enviando ? "Enviando..." : "Enviar mensaje"}
                     </button>
                 </form>
             </div>
