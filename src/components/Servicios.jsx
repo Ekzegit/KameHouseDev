@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import fondoServicios from "../assets/kame_servicios.png";
+import fondoServicios from "../assets/kame_servicios.webp";
 
 function Servicios() {
     return (

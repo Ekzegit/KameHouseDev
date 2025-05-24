@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import fondoInicio from "../assets/foto_inicio.png"; // ✅ Importar imagen
+import fondoInicio from "../assets/foto_inicio.webp"; // ✅ Importar imagen
 
 function Inicio() {
     return (

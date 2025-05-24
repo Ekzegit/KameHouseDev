@@ -10,7 +10,7 @@ const BotonWhatsApp = () => {
       rel="noopener noreferrer"
       aria-label="Chatea con nosotros por WhatsApp"
     >
-      <img src="/whatsapp-icon.png" alt="WhatsApp" />
+      <img src="/whatsapp-icon.webp" alt="WhatsApp" />
     </a>
   );
 };
