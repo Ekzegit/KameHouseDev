@@ -79,8 +79,9 @@ function Contacto() {
                     <input type="hidden" name="_captcha" value="false" />
 
                     <div>
-                        <label className="block mb-1">Nombre</label>
+                        <label htmlFor="nombre" className="block mb-1">Nombre</label>
                         <input
+                            id="nombre"
                             type="text"
                             name="nombre"
                             value={formData.nombre}
@@ -92,9 +93,11 @@ function Contacto() {
                             <p className="text-red-300 text-sm mt-1">{errores.nombre}</p>
                         )}
                     </div>
+
                     <div>
-                        <label className="block mb-1">Correo electrónico</label>
+                        <label htmlFor="correo" className="block mb-1">Correo electrónico</label>
                         <input
+                            id="correo"
                             type="email"
                             name="correo"
                             value={formData.correo}
@@ -106,9 +109,11 @@ function Contacto() {
                             <p className="text-red-300 text-sm mt-1">{errores.correo}</p>
                         )}
                     </div>
+
                     <div>
-                        <label className="block mb-1">Mensaje</label>
+                        <label htmlFor="mensaje" className="block mb-1">Mensaje</label>
                         <textarea
+                            id="mensaje"
                             name="mensaje"
                             rows="4"
                             value={formData.mensaje}
@@ -120,12 +125,13 @@ function Contacto() {
                             <p className="text-red-300 text-sm mt-1">{errores.mensaje}</p>
                         )}
                     </div>
+
                     <button
                         type="submit"
                         disabled={enviando}
                         className={`${enviando
-                                ? "bg-gray-400 cursor-not-allowed"
-                                : "bg-naranjaDB hover:bg-white hover:text-naranjaDB"
+                            ? "bg-gray-400 cursor-not-allowed"
+                            : "bg-naranjaDB hover:bg-white hover:text-naranjaDB"
                             } text-white px-6 py-2 rounded-full transition`}
                     >
                         {enviando ? "Enviando..." : "Enviar mensaje"}
