@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-scroll";
 import { motion } from "framer-motion";
 import nubeKame from "../assets/nubekame.webp";
 
@@ -14,6 +13,17 @@ function Header() {
         window.addEventListener("scroll", closeOnScroll);
         return () => window.removeEventListener("scroll", closeOnScroll);
     }, [isOpen]);
+
+    const scrollToSection = (e, id) => {
+        e.preventDefault();
+        const target = document.getElementById(id);
+        if (target) {
+            target.scrollIntoView({ behavior: "smooth" });
+            setIsOpen(false); // Cerrar menú móvil si está abierto
+        }
+    };
+
+    const secciones = ["inicio", "nosotros", "valores", "proyectos", "servicios", "contacto"];
 
     return (
         <header className="bg-white/80 backdrop-blur-md fixed w-full z-50 shadow-md">
@@ -38,17 +48,15 @@ function Header() {
                 <nav className="flex items-center">
                     {/* Menú escritorio */}
                     <ul className="hidden md:flex gap-6 font-medium text-azulDB">
-                        {["inicio", "nosotros", "valores", "proyectos", "servicios", "contacto"].map((id) => (
+                        {secciones.map((id) => (
                             <li key={id}>
-                                <Link
-                                    to={id}
-                                    smooth={true}
-                                    duration={600}
-                                    offset={-80}
+                                <a
+                                    href={`#${id}`}
+                                    onClick={(e) => scrollToSection(e, id)}
                                     className="cursor-pointer hover:text-naranjaDB capitalize"
                                 >
-                                    {id.replace("-", " ")}
-                                </Link>
+                                    {id}
+                                </a>
                             </li>
                         ))}
                     </ul>
@@ -73,18 +81,15 @@ function Header() {
                     transition={{ duration: 0.3 }}
                     className="absolute top-full right-4 bg-white text-azulDB rounded-md shadow-lg w-48 py-2 md:hidden z-50"
                 >
-                    {["inicio", "nosotros", "valores", "proyectos", "servicios", "contacto"].map((id) => (
+                    {secciones.map((id) => (
                         <li key={id}>
-                            <Link
-                                to={id}
-                                smooth={true}
-                                duration={600}
-                                offset={-80}
+                            <a
+                                href={`#${id}`}
+                                onClick={(e) => scrollToSection(e, id)}
                                 className="block px-4 py-2 hover:text-naranjaDB cursor-pointer capitalize"
-                                onClick={() => setIsOpen(false)}
                             >
-                                {id.replace("-", " ")}
-                            </Link>
+                                {id}
+                            </a>
                         </li>
                     ))}
                 </motion.ul>
