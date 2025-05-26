@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
-import nubeKame from "../assets/nubekame.webp"; // Asegúrate de que esta ruta sea correcta
+import nubeKame from "https://kamehousedev.cl/nubekame.webp"; // Asegúrate de que esta ruta sea correcta
 
 function Header() {
     const [isOpen, setIsOpen] = useState(false);
