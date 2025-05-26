@@ -1,10 +1,19 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
-import nubeKame from "../assets/nubekame.webp"; 
+import nubeKame from "../assets/nubekame.webp";
 
 function Header() {
     const [isOpen, setIsOpen] = useState(false);
+
+    // Cerrar menú móvil al hacer scroll
+    useEffect(() => {
+        const closeOnScroll = () => {
+            if (isOpen) setIsOpen(false);
+        };
+        window.addEventListener("scroll", closeOnScroll);
+        return () => window.removeEventListener("scroll", closeOnScroll);
+    }, [isOpen]);
 
     return (
         <header className="bg-white/80 backdrop-blur-md fixed w-full z-50 shadow-md">
@@ -13,8 +22,8 @@ function Header() {
                 <div className="flex items-center gap-2">
                     <motion.img
                         src={nubeKame}
-                        alt="Nube Kame"
-                        className="w-14 h-14 md:w-16 md:h-16" // 🔼 tamaño aumentado
+                        alt="Logo animado de KameHouseDev con nube estilo Dragon Ball"
+                        className="w-14 h-14 md:w-16 md:h-16"
                         animate={{ y: [0, -5, 0, 5, 0] }}
                         transition={{
                             duration: 2.5,
@@ -24,7 +33,6 @@ function Header() {
                     />
                     <h1 className="text-2xl md:text-3xl font-bold text-azulDB">KameHouseDev</h1>
                 </div>
-
 
                 {/* Menú navegación */}
                 <nav className="flex items-center">
@@ -50,15 +58,21 @@ function Header() {
                         className="md:hidden text-azulDB text-3xl ml-4 focus:outline-none"
                         onClick={() => setIsOpen(!isOpen)}
                         aria-label="Abrir menú"
+                        aria-expanded={isOpen}
                     >
                         ☰
                     </button>
                 </nav>
             </div>
 
-            {/* Menú móvil */}
+            {/* Menú móvil con animación */}
             {isOpen && (
-                <ul className="absolute top-full right-4 bg-white text-azulDB rounded-md shadow-lg w-48 py-2 md:hidden z-50">
+                <motion.ul
+                    initial={{ opacity: 0, y: -10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.3 }}
+                    className="absolute top-full right-4 bg-white text-azulDB rounded-md shadow-lg w-48 py-2 md:hidden z-50"
+                >
                     {["inicio", "nosotros", "valores", "proyectos", "servicios", "contacto"].map((id) => (
                         <li key={id}>
                             <Link
@@ -73,7 +87,7 @@ function Header() {
                             </Link>
                         </li>
                     ))}
-                </ul>
+                </motion.ul>
             )}
         </header>
     );
